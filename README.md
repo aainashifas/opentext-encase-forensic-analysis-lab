@@ -1,5 +1,5 @@
 # opentext-encase-forensic-analysis-lab
-Exploring OpenText/Encase Forensics Tools
+Digital forensic analysis lab using OpenText/EnCase Forensic for evidence processing, artifact review, file signature analysis, hashing, keyword search, and reporting.
 
 # OpenText/EnCase Forensic Analysis Lab
 
